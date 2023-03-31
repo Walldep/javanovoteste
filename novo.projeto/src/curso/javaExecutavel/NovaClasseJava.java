@@ -7,6 +7,6 @@ public class NovaClasseJava {
 		
 		/*escreve texto no console*/
 		System.out.println("primeira tarefa feita em java do curso Jdev");
-		System.out.println("Teste pratico de print do java curso");
+		System.out.println("Alterando para teste de comite do git via ide eclipse");
 	}
 }
